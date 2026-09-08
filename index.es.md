@@ -33,8 +33,7 @@ actuales de clústeres se publican en vivo en la plataforma y no se reproducen a
 instantánea en la enciclopedia queda desactualizada entre ejecuciones. Esta enciclopedia es
 la referencia metodológica para el
 [[co-location-ranking-system|algoritmo de clasificación]], los estándares
-de [[asset-architecture-standard|arquitectura de activos]] y el [[co-location-tier-system|sistema
-de niveles de co-ubicación]] aplicado en América del Norte y Europa.
+de [[asset-architecture-standard|arquitectura de activos]] y el [[co-location-tier-system|sistema de niveles de co-ubicación]] aplicado en América del Norte y Europa.
 La plataforma está disponible en gis.woodfinegroup.com.
 
 Los artículos están organizados en categorías que abarcan las clases de desarrollo y su
